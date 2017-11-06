@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.andresual.dev.otentikasi.BookingActivity">
+
+        <TextView
+            android:id="@+id/tv_jenis_industri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jenis Industri"
+            android:layout_alignBottom="@+id/sp_jenis_industri"
+            android:layout_alignStart="@+id/sp_jenis_industri"
+            android:layout_marginBottom="34dp" />
+
+        <Spinner
+            android:id="@+id/sp_jenis_industri"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="77dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp" />
+
+        <Button
+            android:id="@+id/btn_submit_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/colorPrimary"
+            android:onClick="btnBooking"
+            android:text="submit" />
+
+        <TextView
+            android:id="@+id/tv_atas_nama_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/sp_jenis_industri"
+            android:layout_below="@+id/tv_jenis_industri"
+            android:text="Atas Nama" />
+
+        <EditText
+            android:id="@+id/et_atas_nama_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/sp_jenis_industri"
+            android:layout_alignStart="@+id/tv_atas_nama_booking"
+            android:layout_below="@+id/tv_atas_nama_booking"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_nama_industri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/et_atas_nama_booking"
+            android:layout_below="@+id/et_atas_nama_booking"
+            android:text="Nama Industri / Perusahaan" />
+
+        <EditText
+            android:id="@+id/et_nama_industri"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/et_atas_nama_booking"
+            android:layout_alignStart="@+id/tv_nama_industri"
+            android:layout_below="@+id/tv_nama_industri"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_no_telp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/et_nama_industri"
+            android:layout_below="@+id/et_nama_industri"
+            android:text="No. Telepon" />
+
+        <EditText
+            android:id="@+id/et_no_telp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/tv_no_telp"
+            android:layout_below="@+id/tv_no_telp"
+            android:ems="10"
+            android:inputType="phone"
+            android:layout_alignEnd="@+id/tv_nama_industri" />
+
+        <TextView
+            android:id="@+id/tv_alamat_lengkap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/et_no_telp"
+            android:layout_below="@+id/et_no_telp"
+            android:text="Alamat Lengkap" />
+
+        <EditText
+            android:id="@+id/et_alamat_lengkap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/et_nama_industri"
+            android:layout_alignStart="@+id/tv_alamat_lengkap"
+            android:layout_below="@+id/tv_alamat_lengkap"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+
+        <TextView
+            android:id="@+id/tv_tanggal_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/et_alamat_lengkap"
+            android:layout_below="@+id/et_alamat_lengkap"
+            android:text="Tanggal pengambilan sample" />
+
+        <EditText
+            android:id="@+id/et_tanggal_boking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/tv_tanggal_booking"
+            android:layout_below="@+id/tv_tanggal_booking"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="      /        /"
+            android:layout_alignEnd="@+id/et_no_telp" />
+
+        <ImageButton
+            android:id="@+id/ib_tanggal_booking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_tanggal_booking"
+            android:layout_toEndOf="@+id/et_tanggal_boking"
+            android:src="@drawable/ic_date_range_black_24dp" />
+
+        <TextView
+            android:id="@+id/tv_lokasi_penjemputan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/et_tanggal_boking"
+            android:layout_below="@+id/ib_tanggal_booking"
+            android:text="Area Penjemputan" />
+
+        <Spinner
+            android:id="@+id/sp_area_penjemputan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_lokasi_penjemputan"
+            android:layout_alignStart="@+id/tv_lokasi_penjemputan"
+            android:layout_alignEnd="@+id/et_alamat_lengkap" />
+
+</RelativeLayout>

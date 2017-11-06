@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.andresual.dev.otentikasi.KonfirmBookingActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="29dp"
+        android:text="Atas Nama :" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="15dp"
+        android:text="Jenis Industri :" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Nama Industri :"
+        android:layout_below="@+id/textView6"
+        android:layout_alignStart="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="No Telp :"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_below="@+id/textView8"
+        android:layout_marginTop="15dp"
+        android:text="Alamat :" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="15dp"
+        android:text="Tanggal Pengambilan :" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Area Penjemputan :"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_atas_nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hariono"
+        android:layout_above="@+id/textView6"
+        android:layout_alignStart="@+id/tv_konfirm_jenis_industri" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_jenis_industri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UREA, PUPUK NITROGEN,ZA,NITROGEN"
+        android:layout_above="@+id/textView7"
+        android:layout_toEndOf="@+id/textView3"
+        android:layout_marginStart="25dp" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_nama_industri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PT. ABC"
+        android:layout_alignBaseline="@+id/textView7"
+        android:layout_alignBottom="@+id/textView7"
+        android:layout_alignStart="@+id/tv_konfirm_jenis_industri" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_no_telp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="082133689757"
+        android:layout_alignBaseline="@+id/textView8"
+        android:layout_alignBottom="@+id/textView8"
+        android:layout_alignStart="@+id/tv_konfirm_nama_industri" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_alamat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ngiden VI no 14 Surabaya"
+        android:layout_above="@+id/textView3"
+        android:layout_alignStart="@+id/tv_konfirm_no_telp" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_tanggal_pengambilan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="02/09/2017"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignStart="@+id/tv_konfirm_alamat" />
+
+    <TextView
+        android:id="@+id/tv_konfirm_area_menjemputan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Surabaya"
+        android:layout_above="@+id/tv_kejelasan_jenis_industri"
+        android:layout_alignStart="@+id/tv_konfirm_tanggal_pengambilan" />
+
+    <TextView
+        android:id="@+id/tv_kejelasan_jenis_industri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="POLY, ETHYLENE TEREPHATHALATE"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/textView4"
+        android:layout_alignStart="@+id/textView4" />
+
+    <TextView
+        android:id="@+id/tv_kejelasan_harga_uji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="[uji_004041] = Rp. 251,000,00"
+        android:layout_below="@+id/tv_kejelasan_jenis_industri"
+        android:layout_alignStart="@+id/tv_kejelasan_jenis_industri" />
+
+    <TextView
+        android:id="@+id/tv_kejelasan_area_penjemputan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Area Penjemputan"
+        android:layout_below="@+id/tv_kejelasan_harga_uji"
+        android:layout_alignStart="@+id/tv_kejelasan_harga_uji"
+        android:layout_marginTop="24dp" />
+
+    <TextView
+        android:id="@+id/tv_kejelasan_area_penjemputan_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Probolinggo = Rp. 200.000.00"
+        android:layout_below="@+id/tv_kejelasan_area_penjemputan"
+        android:layout_alignStart="@+id/tv_kejelasan_area_penjemputan" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="Grand total"
+        android:layout_below="@+id/tv_kejelasan_area_penjemputan_2"
+        android:layout_alignStart="@+id/tv_kejelasan_area_penjemputan_2" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView23"
+        android:layout_below="@+id/textView23"
+        android:text="Rp. 451,000,00" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:text="Booking!"
+        android:background="@color/colorPrimary"/>
+</RelativeLayout>

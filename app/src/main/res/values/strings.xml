@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">SiBling App</string>
+    <string name="info1">Masukkan jenis industri anda</string>
+    <string name="welcome">Selamat datang,</string>
+    <string name="ToS">By Tapping Save you are indicating that you agree to the Terms of Service and
+        the Privacy Policy.</string>
+
+    <string-array name="jenis_industri_array">
+        <item> 1	PLUP dan KERTAS </item>
+        <item> 2	INDUSTRI ETHANOL </item>
+        <item> 3	MSG dan LYSINE </item>
+        <item> 4	PENYAMAKAN KULIT </item>
+        <item> 5	GULA </item>
+        <item> 6	SORBITOL </item>
+        <item> 7	KARET </item>
+        <item> 8	TEKSTIL </item>
+        <item> 9	UREA, PUPUK NITROGEN,ZA,NITROGEN </item>
+        <item> 10 PUPUK PHOSPHAT, MAJEMUK, NPK DAN ASAM PHOSPHAT </item>
+        <item> 11 CAT DAN TINTA </item>
+        <item> 12 PESTISIDA </item>
+        <item> 13 KAYU LAPIS </item>
+        <item> 14 ASAM CITRAT </item>
+        <item> 15 MINYAK KELAPA SAWIT </item>
+        <item> 16 MINYAK NABATI,SABUN/DETERGEN </item>
+        <item> 17 OLEOKIMIA DASAR </item>
+        <item> 18 PENGALENGAN/PENGOLAHAN IKAN </item>
+        <item> 19 TEPUNG IKAN </item>
+        <item>20	COLD STORAGE</item>
+        <item>21	PENGOLAHAN RUMPUT LAUT</item>
+        <item>22	BER- ALKOHOL</item>
+        <item>23	SUSU dan ESKRIM</item>
+        <item>24	MINUMAN</item>
+        <item>25	BISKUIT dan ROTI</item>
+        <item>26	PENGUPASAN BIJI KOPI / COKLAT</item>
+        <item>27	KEMBANG GULA</item>
+        <item>28	SAOS</item>
+        <item>29	INDUSTRI BUMBU</item>
+        <item>30	INDUSTRI PENGOLAHAN KEDELAI</item>
+        <item>31	MIE dan KERUPUK</item>
+        <item>32	PENGOLAHAN DAGING</item>
+        <item>33	PENGOLAHAN DAGING BEKICOT</item>
+        <item>34	PENGOLAHAN BUAH-BUAHAN dan SAYUR</item>
+        <item>35	TAPIOKA</item>
+        <item>36	TEPUNG BERAS dan TRIGU</item>
+        <item>37	FARMASI</item>
+        <item>38	ROKOK dan CERUTU</item>
+        <item>39	KARTON BOX</item>
+        <item>40	PENYULINGAN PELUMAS BEKAS</item>
+        <item>41	VINLY CLORIDE MONOMER</item>
+        <item>42	KEGIATAN EKSPLORASI dan PRDKS MIGAS</item>
+        <item>43	KEGIATAN EKSPLORASI dan PRODUKSI MIGAS dan FASILITAS DARAT LAMA</item>
+        <item>44	KEGIATAN EKSPLORASI dan PRODUKSI MIGAS dan FASILITAS DARAT BARU</item>
+        <item>45	EKSPLORASI dan PRODUKSI PANAS BUMI</item>
+        <item>46	PENGOLAHAN MINYAK BUMI</item>
+        <item>47	KEGIATAN PENGALIHAN LNG dan LPG</item>
+        <item>48	PROSES PENGALIHAN LNG dan LPG</item>
+        <item>49	PETROKIMIA HULU</item>
+        <item>50	RAYON</item>
+        <item>51	LEM</item>
+        <item>52	POLY, ETHYLENE TEREPHATHALATE</item>
+        <item>53	PURIFIED TEREPHTHALIC</item>
+        <item>54	INOSINE MONO PHOSPAT</item>
+        <item>55	WATER GLASS</item>
+        <item>56	KOREK API</item>
+        <item>57	TEPUNG SILICA</item>
+        <item>58	BLEACHING EARTH</item>
+        <item>59	SODA KOSTIK</item>
+        <item>60	PELAPISAN LOGAM</item>
+        <item>61	GALVANIS, PRABOT ENAMEL dan LOGAM</item>
+        <item>62	PENAMBANGAN dan PENGOLAHAN BIJI BESI</item>
+        <item>63	KERAMIK</item>
+        <item>64	PNMBGN/PNGLHAN BIJI EMAS/TEMBAGA</item>
+        <item>65	PELEBURAN EMAS dan TEMBAGA</item>
+        <item>66	BATERAI KERING</item>
+        <item>67	BATERAI BASAH</item>
+        <item>68	PERTAMBANGAN dan PENGOLAHAN BIJI NIKEL</item>
+        <item>69	PENGOLAHAN PASIR BESI</item>
+        <item>70	PETERNAKAN-APRIL 2009</item>
+        <item>71	PETERNAKAN+APRIL 2009</item>
+        <item>72	POTONG HEWAN</item>
+        <item>73	CUCI MOTOR/KENDARAAN</item>
+        <item>74	PEMUKIMAN,RESTORAN,PERKANTORAN</item>
+        <item>75	OBAT TRADISIONAL</item>
+        <item>76	RUMAH SAKIT</item>
+        <item>77	PLTU</item>
+        <item>78	LAUNDRY</item>
+        <item>79	PENGOLAHAN KELAPA</item>
+        <item>80	PENGOLAHAN JAMUR</item>
+        <item>81	LABORATORIUM KLINIK</item>
+        <item>82	KAWASAN INDUSTRI</item>
+
+    </string-array>
+
+    <string-array name="area_penjemputan_array">
+        <item>Gresik</item>
+        <item>Surabaya</item>
+        <item>Sidoarjo</item>
+        <item>Mojokerto</item>
+        <item>Lamongan</item>
+        <item>Bojonegoro</item>
+        <item>Tuban</item>
+        <item>Jombang</item>
+        <item>Pasuruan</item>
+        <item>Malang</item>
+        <item>Probolinggo</item>
+    </string-array>
+</resources>

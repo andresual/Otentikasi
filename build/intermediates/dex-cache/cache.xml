@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\25d73407dbf565e779c0e1b3456bba25e7adc0f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_ee04b69fc5d551f72653aac8cd4a59c6398dd257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\8abab2fd62c6b73f8c9d5686b9ddaea11c27a9f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_3e99260c33f227a019024edf60d9b0b32d3932e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2a84db5795ef939f29fee4af4d02c124a318f30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_99dcf7296a09eb2480e240904241362c35f534a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\3f182d2ffb88fd7ee47a4c383da8a6eb13b3c92b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_11c608e126c7cde0a17a921b33d783c2f8366e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\7ff0795de48bedd030242b6df12c81fa9a1b52ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_f240aff1bca7e843e278d0b420770e7d2c5f8c3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\d2076c63ab2dfff323d4301b6442ed18b9af2b86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9890f72c10fad17e9b5024ced968222f1c41d242\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\82196ce26cef33f943694b6b38573165c1fc1b96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_12dad33dd8b38038ec3b578b56a47ef1cf3b9378.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\77052bfec70cb23f9b519e45f9517b74951b821a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_d6d618fd2ec7048e46ca8e7862c6dde72100544c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\3ec27666cbe5498ae89ca512e56d530c5f501352\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_01e54a17d2eaf656b8fd4a96ed69723980173329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\c9056fa2bf67fe3942ad860972793c05100a11f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_0ef6cefd62d6f5576590e65aafc478b4d4449827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\3c60d5657f272b091d26892861d24851b66c42dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_477411bdb9b4015ab238954419d3dcfc8dd8f6bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Otentikasi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83fb0ebdc3e0cf5301ecddf076feeef2fb578462">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d134070ef42355f4deb54d93a44307cf7a3149db\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\150ce7e698c60a0f0ed6234b74485a88adce8c0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_01ad5cc6110c11dabd4a9fc57103b52e9fdc85d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\c471bf77dc2ccf1d68ead818334bb693b33e7afd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_749a2e428aa0a5cd4659e44ce4702cb517b3e9e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\8df89adf2003b972322a7ee0c9d3f64008db0673\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_bfa3d21c18cc3b2b053542afd963cc4f731038b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\4ee58b69cfe30cdcb168086e3b7807ded9d014f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_85c065db424762a05092dd952fc036f8b932dc5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\786337df13c9edce16178142e42e7e2515619d14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_eaee07af567b2ad2c7275b4b738a1f85ef2d18e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5ca58450750ea79a2a050671da86f9e89dc541d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8723ae04eb4826dbc83218a0810d1f787f78807\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\ce3078d8d32052c104a378039f93abacbd6e2c4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_ba6d3cbd6afad34e9e307541d8f3ba39ea5e4ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\98143c0ee2bec58cf5258aa47a374b7d69ff2b35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_80b08f9e52e3415d43491818067c35339a4d9a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\5bada9000e560b593ac0724f588d73ca1842db1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_96c08b63fd1081bfb5e28344edf6ec3a466caf47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\b6aa28f1ae5525e5323908b497f698965291e891\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_20ba1d0eace3755bb9db4736305bb2ebecd8c2b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\9d52f7aa1be76b6aba232b07f0b5e2e804c49bcf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_6ae3a2045c6f0ac8c01fcba6faa8c5f851532abe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\andresual\.android\build-cache\5a157f1acd1b0b3ba62a38ab89fb887bd747ca3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8204b3dd3a49471a1329ab5f090abf2f78d34b47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Otentikasi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Otentikasi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5fbf9420ce149f79cfa3a96ba9e0c030e02dd4cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\066760208421209ef9bc4a7109b981a7893e0325\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_29c15df287837073e87426bcde6ce42717dff59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\andresual\.android\build-cache\36314dc4e2d169b74db6f75cec8816d82f201580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Otentikasi\app\build\intermediates\pre-dexed\debug\classes_fcc75c96eb77d54ca92f758e526d1650bdffe16b.jar" />
+    </item>
+
+</items>
